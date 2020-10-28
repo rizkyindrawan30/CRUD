@@ -1,0 +1,22 @@
+/* Navbar */
+.navbar {
+    background-color: skyblue ;
+}
+
+.navbar .navbar-brand img {
+    width: 60px;
+}
+
+.nav-link {
+    text-decoration-color: tomato;
+}
+
+/* slide */
+.carousel-item {
+    height: 440px;
+}
+
+.btn {
+    border-radius: 40px;
+    background-color: aqua;
+}
